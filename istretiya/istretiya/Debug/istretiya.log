@@ -1,0 +1,5 @@
+﻿  istretiya.cpp
+C:\Users\iabdi\source\repos\istretiya\istretiya\istretiya.cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\iabdi\source\repos\istretiya\istretiya\istretiya.cpp(128,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\iabdi\source\repos\istretiya\istretiya\istretiya.cpp(159,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  istretiya.vcxproj -> C:\Users\iabdi\source\repos\istretiya\Debug\istretiya.exe
